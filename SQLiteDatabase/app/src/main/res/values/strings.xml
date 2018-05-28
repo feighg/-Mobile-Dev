@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite Database</string>
+    <string name="main_link_1">SQLite Activity</string>
+    <string name="main_link_2">SQLite Location</string>
+    <string name="button">Submit</string>
+    <string name="string">String</string>
+    <string name="integer">Integer</string>
+</resources>

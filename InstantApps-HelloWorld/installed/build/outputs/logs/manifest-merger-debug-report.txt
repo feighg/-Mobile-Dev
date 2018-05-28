@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+MERGED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:1-78:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/55ba9d2182cfb6a448c42f2f0e8de1de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/8a81521857592087c1ed36fbd7e57578/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/4bcf8f9dbee79b544d568f9223580e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/58d8f3526873a6a3e68473ddd93b86ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/361f7914388b56753149215bd9bfd121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/1af8c26684a47b67ba855de3b744af73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/d101c058c7937a28eeac89678949e85b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+	package
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:18:5-59
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:1-18:62
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+MERGED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-24:41
+MERGED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/55ba9d2182cfb6a448c42f2f0e8de1de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/55ba9d2182cfb6a448c42f2f0e8de1de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/8a81521857592087c1ed36fbd7e57578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/8a81521857592087c1ed36fbd7e57578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/4bcf8f9dbee79b544d568f9223580e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/4bcf8f9dbee79b544d568f9223580e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/58d8f3526873a6a3e68473ddd93b86ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/58d8f3526873a6a3e68473ddd93b86ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/361f7914388b56753149215bd9bfd121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/361f7914388b56753149215bd9bfd121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/1af8c26684a47b67ba855de3b744af73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/1af8c26684a47b67ba855de3b744af73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/d101c058c7937a28eeac89678949e85b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/d101c058c7937a28eeac89678949e85b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/installed/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:22-64
+application
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-76:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:9-40
+activity#com.google.android.instantapps.samples.hello.feature.HelloActivity
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:9-58:20
+	android:label
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:13-57
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:13-94
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/hello+data:scheme:http+data:scheme:https
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-53:29
+	android:autoVerify
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-42
+	android:order
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-34
+action#android.intent.action.VIEW
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:17-78
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:27-75
+category#android.intent.category.DEFAULT
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:27-73
+data
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:17-48
+	android:scheme
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:23-45
+meta-data#default-url
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-57:76
+	android:value
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:57:17-73
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:56:17-43
+activity#com.google.android.instantapps.samples.hello.feature.GoodbyeActivity
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:59:9-75:20
+	android:label
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-59
+	android:name
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-96
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http+data:scheme:https
+ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-74:29
+	android:autoVerify
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:17-42
+	android:order
+		ADDED from [:feature] /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/build/intermediates/manifests/full/debug/AndroidManifest.xml:64:17-34
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gracefeigh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/33a375076fe4bf088f89b5ef352eef7c/AndroidManifest.xml:26:13-58

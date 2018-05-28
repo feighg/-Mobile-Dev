@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">5 Activities</string>
+    <string name="main_link_1">List View</string>
+    <string name="main_link_2">Grid View</string>
+    <string name="main_link_3">Spinner View</string>
+    <string name="main_link_4">Text View</string>
+    <string name="main_link_5">Image View</string>
+    <string name="title_activity_grid_view">Grid View</string>
+    <string name="title_activity_list_view">List View</string>
+    <string name="title_activity_3">Spinner View</string>
+    <string name="title_activity_4">Text View</string>
+    <string name="title_activity_5">Image View</string>
+    <string name="entry_1">Entry 1</string>
+    <string name="entry_2">Entry 2</string>
+    <string name="entry_3">Entry 3</string>
+    <string name="entry_4">Entry 4</string>
+    <string name="entry_5">Entry 5</string>
+    <string name="spinner_title">Choose</string>
+</resources>

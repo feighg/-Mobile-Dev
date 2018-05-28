@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationPermission</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+</resources>

@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:18:11-73
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:20:22-64
+application
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:22:5-69:19
+	android:supportsRtl
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:26:13-39
+	android:label
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:24:13-45
+	android:allowBackup
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:23:13-39
+	android:theme
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:25:13-44
+activity#com.google.android.instantapps.samples.hello.feature.HelloActivity
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:28:9-51:20
+	android:label
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:30:17-61
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:29:17-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:34:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/hello+data:scheme:http+data:scheme:https
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:36:13-47:29
+	android:autoVerify
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:37:21-46
+	android:order
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:38:21-38
+action#android.intent.action.VIEW
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:40:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:41:27-73
+data
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:43:17-48
+	android:host
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:45:23-64
+	android:scheme
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:43:23-45
+	android:pathPrefix
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:46:23-50
+meta-data#default-url
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:48:13-50:80
+	android:value
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:50:21-77
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:49:21-47
+activity#com.google.android.instantapps.samples.hello.feature.GoodbyeActivity
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:52:9-67:20
+	android:label
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:54:17-63
+	android:name
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:53:17-48
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http+data:scheme:https
+ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:55:13-66:29
+	android:autoVerify
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:56:21-46
+	android:order
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml:57:21-38
+uses-sdk
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		ADDED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml
+		INJECTED from /Users/gracefeigh/AndroidStudioProjects/InstantApps-HelloWorld/feature/src/main/AndroidManifest.xml

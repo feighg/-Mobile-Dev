@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="147dp"
+        android:layout_height="45dp"
+        android:text="@string/lon" />
+
+    <TextView
+        android:id="@+id/lon_output"
+        android:layout_width="153dp"
+        android:layout_height="49dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="145dp"
+        android:layout_height="48dp"
+        android:text="@string/lat" />
+
+    <TextView
+        android:id="@+id/lat_output"
+        android:layout_width="146dp"
+        android:layout_height="45dp"
+        android:text="TextView" />
+
+</LinearLayout>
